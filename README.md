@@ -1,4 +1,5 @@
 # panopticon-template
+https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/
 
 https://unit42.paloaltonetworks.com/blackcat-ransomware/
 
