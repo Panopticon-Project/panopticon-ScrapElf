@@ -24,3 +24,5 @@ https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-da
 https://www.techradar.com/news/microsoft-exchange-servers-are-being-hacked-to-deploy-ransomware
 
 https://therecord.media/louisiana-authorities-investigating-ransomware-attack-on-city-of-alexandria/
+
+https://www.securityweek.com/alphv-ransomware-operators-pressure-victim-dedicated-leak-site
