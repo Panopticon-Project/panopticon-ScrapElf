@@ -22,3 +22,5 @@ https://www.bleepingcomputer.com/news/security/fbi-blackcat-ransomware-breached-
 https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/
 
 https://www.techradar.com/news/microsoft-exchange-servers-are-being-hacked-to-deploy-ransomware
+
+https://therecord.media/louisiana-authorities-investigating-ransomware-attack-on-city-of-alexandria/
