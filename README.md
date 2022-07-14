@@ -32,3 +32,5 @@ https://www.advintel.io/post/blackcat-in-a-shifting-threat-landscape-it-helps-to
 https://www.securityweek.com/alphv-ransomware-gang-creates-searchable-database-victim-data
 
 https://resecurity.com/blog/article/blackcat-aka-alphv-ransomware-is-increasing-stakes-up-to-25m-in-demands
+
+https://therecord.media/bandai-namco-confirms-cyberattack-after-ransomware-group-threatens-leak
