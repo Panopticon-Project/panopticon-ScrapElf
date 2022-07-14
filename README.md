@@ -30,3 +30,5 @@ https://www.securityweek.com/alphv-ransomware-operators-pressure-victim-dedicate
 https://www.advintel.io/post/blackcat-in-a-shifting-threat-landscape-it-helps-to-land-on-your-feet-tech-dive
 
 https://www.securityweek.com/alphv-ransomware-gang-creates-searchable-database-victim-data
+
+https://resecurity.com/blog/article/blackcat-aka-alphv-ransomware-is-increasing-stakes-up-to-25m-in-demands
