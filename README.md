@@ -28,3 +28,5 @@ https://therecord.media/louisiana-authorities-investigating-ransomware-attack-on
 https://www.securityweek.com/alphv-ransomware-operators-pressure-victim-dedicated-leak-site
 
 https://www.advintel.io/post/blackcat-in-a-shifting-threat-landscape-it-helps-to-land-on-your-feet-tech-dive
+
+https://www.securityweek.com/alphv-ransomware-gang-creates-searchable-database-victim-data
