@@ -34,3 +34,5 @@ https://www.securityweek.com/alphv-ransomware-gang-creates-searchable-database-v
 https://resecurity.com/blog/article/blackcat-aka-alphv-ransomware-is-increasing-stakes-up-to-25m-in-demands
 
 https://therecord.media/bandai-namco-confirms-cyberattack-after-ransomware-group-threatens-leak
+
+https://therecord.media/experts-concerned-about-ransomware-groups-creating-searchable-databases-of-victim-data/
