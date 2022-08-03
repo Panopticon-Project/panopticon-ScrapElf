@@ -36,3 +36,5 @@ https://resecurity.com/blog/article/blackcat-aka-alphv-ransomware-is-increasing-
 https://therecord.media/bandai-namco-confirms-cyberattack-after-ransomware-group-threatens-leak
 
 https://therecord.media/experts-concerned-about-ransomware-groups-creating-searchable-databases-of-victim-data/
+
+https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack-on-european-gas-pipeline/
