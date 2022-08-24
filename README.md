@@ -38,3 +38,5 @@ https://therecord.media/bandai-namco-confirms-cyberattack-after-ransomware-group
 https://therecord.media/experts-concerned-about-ransomware-groups-creating-searchable-databases-of-victim-data/
 
 https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack-on-european-gas-pipeline/
+
+https://therecord.media/major-airline-technology-provider-accelya-attacked-by-ransomware-group/
