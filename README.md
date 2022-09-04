@@ -40,3 +40,5 @@ https://therecord.media/experts-concerned-about-ransomware-groups-creating-searc
 https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack-on-european-gas-pipeline/
 
 https://therecord.media/major-airline-technology-provider-accelya-attacked-by-ransomware-group/
+
+https://therecord.media/italy-warns-of-cyberattacks-on-energy-industry-after-eni-gse-incidents/
