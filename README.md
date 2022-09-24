@@ -44,3 +44,5 @@ https://therecord.media/major-airline-technology-provider-accelya-attacked-by-ra
 https://therecord.media/italy-warns-of-cyberattacks-on-energy-industry-after-eni-gse-incidents/
 
 https://suffolktimes.timesreview.com/2022/09/ripple-effects-of-ransomware-attack-against-suffolk-county-continue-more-than-a-week-later/
+
+https://therecord.media/colonial-pipeline-hackers-add-startling-new-capabilities-to-ransomware-operation/
