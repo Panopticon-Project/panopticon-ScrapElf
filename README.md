@@ -42,3 +42,5 @@ https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack
 https://therecord.media/major-airline-technology-provider-accelya-attacked-by-ransomware-group/
 
 https://therecord.media/italy-warns-of-cyberattacks-on-energy-industry-after-eni-gse-incidents/
+
+https://suffolktimes.timesreview.com/2022/09/ripple-effects-of-ransomware-attack-against-suffolk-county-continue-more-than-a-week-later/
