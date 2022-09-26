@@ -46,3 +46,5 @@ https://therecord.media/italy-warns-of-cyberattacks-on-energy-industry-after-eni
 https://suffolktimes.timesreview.com/2022/09/ripple-effects-of-ransomware-attack-against-suffolk-county-continue-more-than-a-week-later/
 
 https://therecord.media/colonial-pipeline-hackers-add-startling-new-capabilities-to-ransomware-operation/
+
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-ransomware-ttps
