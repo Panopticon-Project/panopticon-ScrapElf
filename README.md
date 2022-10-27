@@ -50,3 +50,5 @@ https://therecord.media/colonial-pipeline-hackers-add-startling-new-capabilities
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-ransomware-ttps
 
 https://stairwell.com/news/threat-research-report-exmatter-future-of-data-extortion/
+
+https://www.tecmundo.com.br/seguranca/250404-rede-record-sofre-ataque-cibernetico-muda-programacao-pressas.htm
