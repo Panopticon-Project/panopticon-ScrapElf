@@ -52,3 +52,5 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus
 https://stairwell.com/news/threat-research-report-exmatter-future-of-data-extortion/
 
 https://www.tecmundo.com.br/seguranca/250404-rede-record-sofre-ataque-cibernetico-muda-programacao-pressas.htm
+
+https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-blackcat
