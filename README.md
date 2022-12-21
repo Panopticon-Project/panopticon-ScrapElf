@@ -54,3 +54,7 @@ https://stairwell.com/news/threat-research-report-exmatter-future-of-data-extort
 https://www.tecmundo.com.br/seguranca/250404-rede-record-sofre-ataque-cibernetico-muda-programacao-pressas.htm
 
 https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-blackcat
+
+https://www.bleepingcomputer.com/news/security/colombian-energy-supplier-epm-hit-by-blackcat-ransomware-attack/
+
+https://www.elcolombiano.com/antioquia/hackers-piden-plata-a-epm-para-devolverle-informacion-robada-en-ciberataque-FK19647673
