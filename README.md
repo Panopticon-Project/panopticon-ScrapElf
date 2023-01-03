@@ -60,3 +60,5 @@ https://www.bleepingcomputer.com/news/security/colombian-energy-supplier-epm-hit
 https://www.elcolombiano.com/antioquia/hackers-piden-plata-a-epm-para-devolverle-informacion-robada-en-ciberataque-FK19647673
 
 https://therecord.media/toy-maker-jakks-pacific-reports-cyberattack-after-multiple-ransomware-groups-post-stolen-data/
+
+https://www.securityweek.com/ransomware-gang-takes-credit-maple-leaf-foods-hack
