@@ -62,3 +62,5 @@ https://www.elcolombiano.com/antioquia/hackers-piden-plata-a-epm-para-devolverle
 https://therecord.media/toy-maker-jakks-pacific-reports-cyberattack-after-multiple-ransomware-groups-post-stolen-data/
 
 https://www.securityweek.com/ransomware-gang-takes-credit-maple-leaf-foods-hack
+
+https://www.hhs.gov/sites/default/files/royal-blackcat-ransomware-tlpclear.pdf
